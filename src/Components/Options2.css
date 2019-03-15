@@ -1,0 +1,30 @@
+.Tasks1 {
+    width: 70px;
+    margin-top: 2px;
+    margin-left: 2px;
+    
+    padding-left: 4px;
+    color: #4f4f4f;
+    
+  }
+  .Card1 {
+    
+    font-size: 15px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 1px 1px 1px #b8b5b4;
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,0.2), 0 2px 8px 0 rgba(0,0,0,0.17);
+    
+  }
+  .Task1 {
+    margin: 4px;
+    padding: 4px;
+    cursor: pointer;
+  }
+ 
+  
+  .li{
+  cursor: pointer;
+  }
+  
